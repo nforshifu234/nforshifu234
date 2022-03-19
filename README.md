@@ -6,7 +6,7 @@
       <br>    Facebook : www.facebook.com/nforshifu.234/
       <br>    Instagram : www.instagram.com/nforshifu_234/
       <br>    Twitter : www.twitter.com/nforshifu_234/
-      <br>    E-Mail me at shifther824@gmail.com
+      <br>    E-Mail me at nforshifu.234@gmail.com
 
 <!---
 nforshifu-234/nforshifu-234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
