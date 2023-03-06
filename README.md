@@ -4,7 +4,7 @@
 <h2> <b>Bonnjour🌚</b>, Je m'apple Shifu-Nfor Nyuiring-yoh Rhagninyui</h2>
 <h2> <b>Hola🌚</b> mi nombre es </h2> -->
 
-<div style="background:#D9D9D9;color: #000;">
+<div  style="background:#D9D9D9;color: #000;">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=NFORSHIFU234👩‍💻&animation=twinkling&type=waving&color=0:5160F9,100:ebebeb33&height=300&fontColor=bbbdd7&theme=gruvbox"/>
@@ -16,7 +16,7 @@
 
 </div>
 
-<div style="display: flex;justify-content: center; align-items:center;" >
+<div style="display: flex;justify-content: center; align-items:center;" align="center" >
 
 <a href="https://www.instagram.com/nforshifu234.dev/" style="margin-right:10px;">
   <img height="100" src="https://nforshifu-234.github.io/assets/img/2232327_instagram%20logo_logo_social%20media_instagram_icon.png"/>
@@ -96,13 +96,13 @@ Hobbies: ["listening to music", "coding", "helping around"]
 
 <div style="display:flex;align-items:center;padding:0.5rem;">
 
-<div class="left">
+<div class="left" style="float:left;" >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nforshifu-234&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<div class="right">
+<div class="right" style="float: right;" >
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu-234&repo=nforshifu-234.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
