@@ -18,16 +18,16 @@
 
 <div style="display: flex;justify-content: center; align-items:center;" align="center" >
 
-<a href="https://www.instagram.com/nforshifu234.dev/" style="margin-right:10px;">
-  <img height="100" src="https://nforshifu-234.github.io/assets/img/2232327_instagram%20logo_logo_social%20media_instagram_icon.png"/>
+<a href="https://www.instagram.com/nforshifu234dev/" style="margin-right:10px;">
+  <img height="100" src="https://nfsfu-frontend-projects.netlify.app/assets/img/2232327_instagram%20logo_logo_social%20media_instagram_icon.png"/>
 </a>
 
-<a href="https://twitter.com/nforshifu234.dev/" style="margin-right:10px;">
-  <img height="120" src="https://nforshifu-234.github.io/assets/img/2184650_logo_twitter_social media_twitter bird_icon.png"/>
+<a href="https://twitter.com/nforshifu234dev/" style="margin-right:10px;">
+  <img height="120" src="https://nfsfu-frontend-projects.netlify.app/assets/img/2184650_logo_twitter_social media_twitter bird_icon.png"/>
 </a>
 
 <a href="mailto:nforshifu234.dev@gmail.com" style="margin-right:10px;">
-  <img height="87" src="https://nforshifu-234.github.io/assets/img/8673571_ic_fluent_person_mail_filled_icon.png"/>
+  <img height="87" src="https://nfsfu-frontend-projects.netlify.app/assets/img/8673571_ic_fluent_person_mail_filled_icon.png"/>
 </a>
 
 </div>
@@ -54,9 +54,9 @@ feilds_of_intrests:
         "Artificail Intelligence"
     ]
 
-currently_learning: ["OOP PHP","React JS","Node JS"]
+currently_learning: ["OOP PHP","React JS","Python"]
 
-2023 Goals: ["Be able to build an OOP MVC PHP project with the aid of Node JS and React JS"]
+2023 Goals: ["Be able to build an OOP MVC PHP project with the aid of React JS"]
 
 Hobbies: ["listening to music", "coding", "helping around"]
 
@@ -89,7 +89,9 @@ Hobbies: ["listening to music", "coding", "helping around"]
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" style="margin:10px;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" style="margin:10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="45" height="45" style="margin:10px;" />
           
 
 </div>
@@ -98,13 +100,13 @@ Hobbies: ["listening to music", "coding", "helping around"]
 
 <div class="left" style="float:left;" >
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nforshifu-234&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nforshifu234dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div class="right" style="float: right;" >
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu-234&repo=nforshifu-234.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu234dev&repo=nforshifu-234.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -113,12 +115,14 @@ Hobbies: ["listening to music", "coding", "helping around"]
 
 <div align="center" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nforshifu-234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nforshifu234dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Thank You❤✨&type=waving&color=0:5160F9,100:ebebeb33&height=300&fontColor=bbbdd7&section=footer&reversal=true&fontAlignY=70&theme=gruvbox_light"/>
+  <img src="https://capsule-render.vercel.app/api?text=Thank%20You❤✨&type=waving&color=0:5160F9,100:ebebeb33&height=300&fontColor=bbbdd7&section=footer&reversal=true&fontAlignY=70&theme=gruvbox_light"/>
 </p>
+  
+
 
 </div>
