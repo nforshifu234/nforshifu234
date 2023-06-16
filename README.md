@@ -37,8 +37,8 @@
 </h2>
 
 ```yaml
-# * YOUR TEXT GOES HERE *
-name: NFORSHIFU234
+
+name: Shifu-Nfor Nyuiring-yoh Rhagninyui || NFORSHIFU234DEV 
 location: Lagos, Nigeria
 current_job: Student
 
@@ -51,14 +51,15 @@ feilds_of_intrests:
     [
         "Web Development",
         "UI/UX",
-        "Artificail Intelligence"
+        "Artificial Intelligence",
+        "IoT"
     ]
 
 currently_learning: ["OOP PHP","React JS","Python"]
 
 2023 Goals: ["Be able to build an OOP MVC PHP project with the aid of React JS"]
 
-Hobbies: ["listening to music", "coding", "helping around"]
+Hobbies: ["listening to music", "coding", "helping around in learning and solving real life problems"]
 
 ```
 
@@ -96,15 +97,17 @@ Hobbies: ["listening to music", "coding", "helping around"]
 
 </div>
 
+<br>
+
 <div style="display:flex;align-items:center;padding:0.5rem;">
 
-<div class="left" style="float:left;" >
+<div class="left"  >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nforshifu234dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<div class="right" style="float: right;" >
+<div class="right"  >
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu234dev&repo=nforshifu-234.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -113,9 +116,11 @@ Hobbies: ["listening to music", "coding", "helping around"]
 </div>
 
 
-<div align="center" >
+<div style="display:flex;" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nforshifu234dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nforshifu234dev&" alt="nforshifu234dev" /></p>
 
 </div>
 
