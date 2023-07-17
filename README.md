@@ -55,7 +55,7 @@ feilds_of_intrests:
         "IoT"
     ]
 
-currently_learning: ["OOP PHP","React JS","Python"]
+currently_learning: ["OOP PHP","Python"]
 
 2023 Goals: ["Be able to build an OOP MVC PHP project with the aid of React JS"]
 
