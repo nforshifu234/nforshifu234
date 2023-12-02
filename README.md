@@ -101,6 +101,9 @@ Hobbies: ["listening to music", "coding", "helping around in learning and solvin
 
 <div style="display:flex;align-items:center;padding:0.5rem;">
 
+
+![2023 Wrap](https://api.githubtrends.io/user/svg/nforshifu234dev/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
+
 <div class="left"  >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nforshifu234dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -118,7 +121,7 @@ Hobbies: ["listening to music", "coding", "helping around in learning and solvin
 
 <div style="display:flex;" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nforshifu234dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nforshifu234dev&" alt="nforshifu234dev" /></p>
 
