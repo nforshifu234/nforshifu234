@@ -1,136 +1,147 @@
-<!-- [![MasterHead] ( http://nforshifu.com/images/nforshifu-logo-2.png ) ]
 
-<h1> <b>Hi🌚</b> , I am <mark style="padding:10px;font-weight:bold;" >Shifu-Nfor Nyuiring-yoh Rhagninyui</mark> </h1>
-<h2> <b>Bonnjour🌚</b>, Je m'apple Shifu-Nfor Nyuiring-yoh Rhagninyui</h2>
-<h2> <b>Hola🌚</b> mi nombre es </h2> -->
 
-<div  style="background:#D9D9D9;color: #000;">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=NFORSHIFU234👩‍💻&animation=twinkling&type=waving&color=0:5160F9,100:ebebeb33&height=300&fontColor=bbbdd7&theme=gruvbox"/>
-</p>
-
-<div align="center" style="margin-bottom:20px;" >
-
-<img src="https://media.giphy.com/media/fdYj0ekdoE0sbv6bCv/giphy.gif" />
+<!-- Circular profile pictures and "x" centered -->
+<div align="center">
+  <img src="https://static-nforshifu234dev.netlify.app/NFORSHIFU234Dev-Dark-Logo.png" alt="Profile Picture" width="250px" height="250px" style="border-radius: 50%; object-fit: contain; margin-right: 20px;">
 
 </div>
 
-<div style="display: flex;justify-content: center; align-items:center;" align="center" >
+<!-- Title -->
+<h1 align="center">NFORSHIFU234 Dev || Shifu-Nfor Nyuiring-yoh Rhagninyui ->📍LOS, NG
+</h1>
 
-<a href="https://www.instagram.com/nforshifu234dev/" style="margin-right:10px;">
-  <img height="100" src="https://nfsfu-frontend-projects.netlify.app/assets/img/2232327_instagram%20logo_logo_social%20media_instagram_icon.png"/>
-</a>
+<br>
 
-<a href="https://twitter.com/nforshifu234dev/" style="margin-right:10px;">
-  <img height="120" src="https://nfsfu-frontend-projects.netlify.app/assets/img/2184650_logo_twitter_social media_twitter bird_icon.png"/>
-</a>
+[![wakatime](https://wakatime.com/badge/user/018d0a3b-4139-453c-b5c4-7a01d53a2015.svg?style=for-the-badge)](https://wakatime.com/@nforshifu234dev)
+[![github](https://img.shields.io/github/followers/nforshifu234dev?logo=github&style=for-the-badge)](https://github.com/nforshifu234dev?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/nforshifu234dev?style=for-the-badge&logo=twitter)](https://twitter.com/nforshifu234dev)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nforshifu234dev?style=for-the-badge&logo=X)](https://twitter.com/nforshifu234dev)
+[![ Threads Follow](https://img.shields.io/twitter/follow/nforshifu234dev?style=for-the-badge&logo=threads)](https://threads.net/nforshifu234dev)
 
-<a href="mailto:nforshifu234.dev@gmail.com" style="margin-right:10px;">
-  <img height="87" src="https://nfsfu-frontend-projects.netlify.app/assets/img/8673571_ic_fluent_person_mail_filled_icon.png"/>
-</a>
 
-</div>
 
-<h2 style="padding:1.5rem;font-weight:bold;text-transform:uppercase;letter-spacing:3px;border-top:1px solid #000;border-bottom:1px solid #000;margin-bottom:20px;" >
-    About Me 🌚
-</h2>
+<!-- Table of Contents -->
+## 📚 Table of Contents
+- [🌚 About Me](#about-me)
+- [🛠️ Tools I Use](#tools-i-use)
+- [✨ GitHub Stats](#github-stats)
+- [📈 Trending Repositories](#trending-repositories)
+- [📱 Socials](#socials)
 
-```yaml
+<!-- About Me section -->
+## About Me 
 
-name: Shifu-Nfor Nyuiring-yoh Rhagninyui || NFORSHIFU234DEV 
-location: Lagos, Nigeria
-current_job: Student
+```php
+<?php 
 
-education: 
-    [
-        "Self-Taught Developer and Designer"
-    ]
+$MyInformation = [
 
-feilds_of_intrests: 
-    [
+    "Name" => 'NFORSHIFU234 DEV 🖤👨🏾‍💻 || Shifu-Nfor Nyuiring-yoh Rhagninyui ',
+    "Location" => ' Lagos, Nigeria',
+    "Current_Job" => 'Student',
+
+    "frameworks" => [
+        "Code Igniter 4",
+        "Bootstrap"
+    ],
+
+    "languages" => [
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS",
+    ],
+
+    "fields_of_interest" => [
         "Web Development",
         "UI/UX",
         "Artificial Intelligence",
         "IoT"
+    ],
+
+    "currently_learning" => [
+        "Tailwind CSS", 
+        "Angular JS"
+    ],
+
+    "2024_Goals" => [
+        "Upgrade the NFSFU234-Ecomm Project to use Code Igniter 4",
+        "Build an admin dashboard page with Tailwind CSS",
+        "Build a mobile App using one of Angular JS frameworks that can do that. (Hopefully🤞🏾)"
+    ],
+
+    "hobbies": [
+        "listening to music", 
+        "coding", 
+        "helping around in learning and solving real-life problems"
     ]
 
-currently_learning: ["OOP PHP","Python"]
-
-2023 Goals: ["Be able to build an OOP MVC PHP project with the aid of React JS"]
-
-Hobbies: ["listening to music", "coding", "helping around in learning and solving real life problems"]
-
+];
 ```
 
-<h2 style="padding:1rem;font-weight:bold;text-transform:capitalize;letter-spacing:3px;border-top:1px solid #000;border-bottom:1px solid #000;"> 🚀 &nbsp;Some Tools I Have Used and Learned / Still Learning</h2>
+<!-- Tools section with logos and names -->
+## Tools I Use 
+- PHP <img src="https://static-nforshifu234dev.netlify.app/assets/images/php-logo.png" alt="PHP" width="20px" height="20px">
+- JavaScript <img src="https://static-nforshifu234dev.netlify.app/assets/images/javascript-logo.png" alt="JavaScript" width="20px" height="20px">
+- HTML5 <img src="https://static-nforshifu234dev.netlify.app/assets/images/html5-logo.png" alt="HTML 5" width="20px" height="20px">
+- CSS3 <img src="https://static-nforshifu234dev.netlify.app/assets/images/css3-logo.png" alt="CSS 3" width="20px" height="20px">
+- Bootstrap <img src="https://static-nforshifu234dev.netlify.app/assets/images/bootstrap-logo.png" alt="BootStrap" width="20px" height="20px">
+- Canva <img src="https://static-nforshifu234dev.netlify.app/assets/images/canva-logo.png" alt="Canva" width="20px" height="20px">
+- Code Pen <img src="https://static-nforshifu234dev.netlify.app/assets/images/codepen-logo.png" alt="Code Pen" width="20px" height="20px">
+- Netlify <img src="https://static-nforshifu234dev.netlify.app/assets/images/netlify-logo.png" alt="Netlify" width="20px" height="20px">
+- VS Code <img src="https://static-nforshifu234dev.netlify.app/assets/images/vscode-logo.png" alt="VS Code" width="20px" height="20px">
+- Wordpress <img src="https://static-nforshifu234dev.netlify.app/assets/images/wordpress-logo.png" alt="Wordpress" width="20px" height="20px">
 
-<div  style="display: flex;justify-content: left; align-items:center;flex-wrap:wrap;">
+<!-- GitHub stats section -->
+## GitHub Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nforshifu234dev&show_icons=true)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin:10px;"  />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nforshifu234dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45" style="margin:10px;"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nforshifu234dev&layout=compact&langs_count=6)
 
+<!-- GitHub trending repository section -->
+## Trending Repositories 
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu234dev&repo=nfsfu234-form-validation)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" style="margin:10px;" />
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu234dev&repo=NFSFU-ECOMM)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" style="margin:10px;" />
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu234dev&repo=Vas2Nets)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" style="margin:10px;" />
+![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu234dev&repo=threads)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" style="margin:10px;" />
+## Socials
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="margin:10px;" />
+### Instagram 📸
+- **Username:** [nforshifu234dev](https://www.instagram.com/nforshifu234dev/)
+- **Tech Tidbits:** Dive into my Instagram for some tech fun facts and "Did You Knows." I share bite-sized tech trivia, snippets of my projects, and a peek behind the scenes. Let's geek out together!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45" style="margin:10px;" />
+### X(Twitter) 🐦
+- **Username:** [nforshifu234dev](https://twitter.com/nforshifu234dev/)
+- **Tech Buzz:** Join me on Twitter for the latest buzz in tech. I'm here to share news, updates on my form validation library, and engage in lively discussions about the ever-evolving world of technology. Let's ride the tech wave together!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" style="margin:10px;" />
+### LinkedIn 💼
+- **Username:** [nforshifu234dev](https://www.linkedin.com/in/nforshifu234dev/)
+- **Professional Progress:** Swing by my LinkedIn for a glimpse into my professional journey. I share insights into my progress, achievements, and projects. Let's connect and grow
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45" style="margin:10px;" />
+ together in the professional tech world.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" style="margin:10px;" />
+### Email ✉️
+- **Email:** [nforshifu234.dev@gmail.com](mailto:nforshifu234.dev@gmail.com)
+- **Say Hi!:** Shoot me an email for anything you've got on your mind. Whether it's collaboration ideas, project inquiries, or just to say a friendly "Hello!" I'm all ears and ready to chat.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" style="margin:10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="45" height="45" style="margin:10px;" />
-          
+### GitHub 💻
+- **GitHub:** [nforshifu234dev](https://github.com/nforshifu234dev)
+- **Code Adventures:** Dive into my GitHub to explore the adventures in code. From form validation libraries to other exciting projects, it's all here. Fork, star, or contribute – let's build awesome tech together!
 
-</div>
+Feel free to drop by these platforms and let the good times roll. Looking forward to connecting and sharing in our tech journeys!
+
 
 <br>
 
-<div style="display:flex;align-items:center;padding:0.5rem;">
-
-
-![2023 Wrap](https://api.githubtrends.io/user/svg/nforshifu234dev/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
-
-<div class="left"  >
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nforshifu234dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div class="right"  >
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nforshifu234dev&repo=nforshifu-234.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-</div>
-
-
-<div style="display:flex;" >
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nforshifu234dev&" alt="nforshifu234dev" /></p>
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Thank%20You❤✨&type=waving&color=0:5160F9,100:ebebeb33&height=300&fontColor=bbbdd7&section=footer&reversal=true&fontAlignY=70&theme=gruvbox_light"/>
-</p>
-  
-
+<!-- Thank you message -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?text=Thank%20You🖤✨&type=waving&color=0:5160F9,100:ebebeb33&height=300&fontColor=ffffff&section=footer&reversal=true&fontAlignY=70">
 
 </div>
