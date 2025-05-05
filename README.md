@@ -93,5 +93,5 @@
 ---
 
 <div align="center">
-  <p>Thanks for stopping by! Let’s code, create, and inspire together! 🖤✨</p>
+  <p>Thanks for stopping by! Let’s innovate, create, and code together! 🖤✨</p>
 </div>
