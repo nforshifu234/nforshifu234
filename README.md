@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://wakatime.com/@nforshifu234dev"><img src="https://wakatime.com/badge/user/018d0a3b-4139-453c-b5c4-7a01d53a2015.svg?style=flat" alt="WakaTime"></a>
-  <a href="https://github.com/nforshifu234dev"><img src="https://img.shields.io/github/followers/nforshifu234dev?logo=github&style=flat" alt="GitHub Followers"></a>
+  <a href="https://github.com/nforshifu234"><img src="https://img.shields.io/github/followers/nforshifu234dev?logo=github&style=flat" alt="GitHub Followers"></a>
   <a href="https://x.com/nforshifu_234"><img src="https://img.shields.io/twitter/follow/nforshifu_234?style=flat&logo=X" alt="X"></a>
   <a href="https://www.linkedin.com/in/nforshifu234"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.tiktok.com/@nforshifu234"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" alt="TikTok"></a>
